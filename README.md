@@ -1,5 +1,3 @@
-# Business-Insights-360
-
 # Unlocking the Power of Data: Business Insights 360 🚀
 
 Hello everyone! 🔍 Ever wondered how data can drive smarter business decisions? Well, I’ve had the incredible opportunity to dive into the world of data analytics with the Business Insights 360 project, where I transformed raw data into powerful, actionable insights. Let me take you through this journey.
@@ -11,6 +9,7 @@ AtliQ is an innovative, fast-growing player in the global consumer electronics m
 # Live Dashboard :
 
 Here is the link you can explore:
+
 (https://app.powerbi.com/groups/f07ab82f-4995-485a-9206-2f2edaeefa05/reports/eae31aa0-8d22-431e-87ab-618407982d82/66f7d675bcd883842dc0?experience=power-bi)
 
 # The Project Views: 
@@ -35,41 +34,41 @@ Executive View: Real-time data for quick, strategic decision-making at the leade
 
 # Key Learnings:
 
-Data Modeling: Built calculated columns & DAX measures for insights.
+**Data Modeling**: Built calculated columns & DAX measures for insights.
 
-Seamless Integration: Connected MySQL & Excel for unified reports.
+**Seamless Integration**: Connected MySQL & Excel for unified reports.
 
-User Experience: Created interactive dashboards with bookmarks.
+**User Experience**: Created interactive dashboards with bookmarks.
 
-Visualization Mastery: Applied conditional formatting, dynamic titles, & tooltips.
+**Visualization Mastery**: Applied conditional formatting, dynamic titles, & tooltips.
 
-Optimized Performance: Used DAX Studio & Power Query for data optimization.
+**Optimized Performance**: Used DAX Studio & Power Query for data optimization.
 
-Calculated Columns & DAX Measures: Developed complex calculations for advanced reporting.
+**Calculated Columns & DAX Measures**: Developed complex calculations for advanced reporting.
 
-Data Connections: Integrated MySQL & Excel for cross-departmental insights.
+**Data Connections**: Integrated MySQL & Excel for cross-departmental insights.
 
-Bookmarks: Enabled easy navigation between visuals.
+**Bookmarks**: Enabled easy navigation between visuals.
 
-Page Navigation: Implemented buttons for smooth user flow.
+**Page Navigation**: Implemented buttons for smooth user flow.
 
-Tooltips: Added context to visuals for better clarity.
+**Tooltips**: Added context to visuals for better clarity.
 
-Conditional Formatting: Enhanced visuals with dynamic formatting.
+**Conditional Formatting**: Enhanced visuals with dynamic formatting.
 
-Dynamic Titles: Created titles that adapt based on filters.
+**Dynamic Titles**: Created titles that adapt based on filters.
 
-Auto-Refresh: Set up real-time data updates via the gateway.
+**Auto-Refresh**: Set up real-time data updates via the gateway.
 
 # The Tools Behind the Magic :
 
-Power BI Desktop & Service: Created interactive dashboards and shared real-time reports with stakeholders.
+**Power BI Desktop & Service**: Created interactive dashboards and shared real-time reports with stakeholders.
 
-MySQL Database: Connected and integrated diverse datasets for deeper insights.
+**MySQL Database**: Connected and integrated diverse datasets for deeper insights.
 
-DAX Language: Used for building advanced calculations to enhance analytical depth.
+**DAX Language**: Used for building advanced calculations to enhance analytical depth.
 
-Power Query: Cleaned, transformed, and integrated data to ensure accuracy and consistency.
+**Power Query**: Cleaned, transformed, and integrated data to ensure accuracy and consistency.
 
 # Key Business Metrics Focused On:
 
