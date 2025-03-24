@@ -14,23 +14,23 @@ Here is the link you can explore:
 
 # The Project Views: 
 
-Home Page: Central dashboard for an overview of all key metrics.
+**Home Page**: Central dashboard for an overview of all key metrics.
 
-Finance View: Insights on financial performance, P&L statements, and expenses.
+**Finance View**: Insights on financial performance, P&L statements, and expenses.
 
-Sales View: Detailed analysis of customer and product performance, with filters for in-depth segmentation.
+**Sales View**: Detailed analysis of customer and product performance, with filters for in-depth segmentation.
 
-Marketing View: Strategic insights into regional and product performance for optimized marketing.
+**Marketing View**: Strategic insights into regional and product performance for optimized marketing.
 
-Supply Chain View: Metrics to measure and improve forecast accuracy and supply chain efficiency.
+**Supply Chain View**: Metrics to measure and improve forecast accuracy and supply chain efficiency.
 
-Executive View: Real-time data for quick, strategic decision-making at the leadership level.
+**Executive View**: Real-time data for quick, strategic decision-making at the leadership level.
 
 # Data Sources :
 
-1.Excel/CSV Files: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
+**1.Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
 
-2.MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database.
+**2.MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
 # Key Learnings:
 
@@ -75,6 +75,10 @@ Executive View: Real-time data for quick, strategic decision-making at the leade
 Net Invoice Sales
 
 Gross Margin & Net Profit
+
+Pre-invoice deductions
+
+Post-invoice deductions
 
 Cost of Goods Sold (COGS)
 
