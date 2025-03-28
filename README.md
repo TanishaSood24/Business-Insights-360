@@ -8,8 +8,8 @@ AtliQ is an innovative, fast-growing player in the global consumer electronics m
 
 # Live Dashboard
 
-Explore the live dashboard here: 
-[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc3MDAxYzgtNmQ5Ny00ODdlLTg3ZmYtOTJlMTVlMmFjYWI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNC
+Explore the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc3MDAxYzgtNmQ5Ny00ODdlLTg3ZmYtOTJlMTVlMmFjYWI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 
 # The Project Views: 
