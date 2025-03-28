@@ -6,11 +6,11 @@ Hello everyone! 🔍 Ever wondered how data can drive smarter business decisions
 
 AtliQ is an innovative, fast-growing player in the global consumer electronics market. As they scale, leveraging data to drive strategic decisions is essential. That’s where the Business Insights 360 dashboard comes in, offering a bird’s-eye view of key performance metrics across departments.
 
-# Live Dashboard :
+# Live Dashboard
 
-Here is the link you can explore:
+Explore the live dashboard here: 
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTc3MDAxYzgtNmQ5Ny00ODdlLTg3ZmYtOTJlMTVlMmFjYWI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNC
 
-(https://app.powerbi.com/groups/f07ab82f-4995-485a-9206-2f2edaeefa05/reports/eae31aa0-8d22-431e-87ab-618407982d82/66f7d675bcd883842dc0?experience=power-bi)
 
 # The Project Views: 
 
